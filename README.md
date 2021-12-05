@@ -75,11 +75,6 @@ The platform is a decentralized social media something similar to twitter but to
 ### Frontend/To Start Local Server
 1. In the projects root directory, run `npm start`
 
-## Project Demo
-Website 👉 [https://dwittermedia.herokuapp.com/](https://dwittermedia.herokuapp.com/)
-
-YouTube 👉 [https://youtu.be/l75vF8HAJ8Y](https://youtu.be/l75vF8HAJ8Y)
-
 ## Avoiding Common Attacks
 Documented here 👉 [avoiding_common_attacks.md](avoiding_common_attacks.md)
 
